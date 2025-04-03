@@ -1,9 +1,8 @@
-package com.bridgelabz.junittesting;
+package com.bridgelabz;
 
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import com.bridgelabz.junit.Calculator;
 import org.junit.jupiter.api.Test;
 
 class CalculatorTest {
